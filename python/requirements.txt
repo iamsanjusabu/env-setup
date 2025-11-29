@@ -1,0 +1,40 @@
+# Data & Analysis
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning
+scikit-learn
+# torch
+# torchaudio
+# torchvision
+
+# GenAI & RAG
+transformers
+sentence-transformers
+peft
+qdrant-client
+accelerate
+bitsandbytes
+tiktoken
+datasets
+
+# Backend & Database
+fastapi
+uvicorn
+psycopg
+
+
+# APIs
+google-genai
+openai
+anthropic
+
+# Misc
+jupyterlab
+jupytext
+requests
+python-dotenv
+mlflow
+xgboost
