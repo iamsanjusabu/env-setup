@@ -38,3 +38,4 @@ requests
 python-dotenv
 mlflow
 xgboost
+qrcode[pil]

@@ -1,0 +1,42 @@
+{
+    "database-client.autoSync": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Noto Mono','Droid Sans Mono', 'monospace'",
+    "editor.fontSize": 16,
+    "python.defaultInterpreterPath": "/home/sanju/python-venv",
+    "terminal.integrated.stickyScroll.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontLigatures": false,
+    "editor.codeLens": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.parameterHints.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+    "editor.background": "#0c0c0c",
+    "sideBar.background": "#0c0c0c",
+    "terminal.background": "#0c0c0c",
+    "panel.background": "#0c0c0c",
+    "editorSuggestWidget.background": "#0c0c0c",
+    "editorSuggestWidget.border": "#1a1a1a",
+    "editorSuggestWidget.selectedBackground": "#1a1a1a",
+    "tab.activeBackground": "#0c0c0c",
+    "list.activeSelectionBackground": "#1a1a1a",
+    "list.inactiveSelectionBackground": "#1a1a1a"
+},
+"github.copilot.nextEditSuggestions.enabled": false,
+"github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": true
+}
+}
